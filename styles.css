@@ -1,0 +1,39 @@
+body {
+    background-image: url("pink.jpg");
+    text-align:center
+  }
+
+.MT {
+   color: rgb(64, 60, 66);
+   font-size: 40px;
+   font-family: 'Times New Roman', Times, serif;
+  }
+
+li a {
+    text-decoration: none;
+    color: rgb(205, 130, 205);
+}
+
+li a:hover
+{
+    background-color: rgb(211, 156, 199);
+    color: rgb(63, 42, 42);
+    padding: 0px 15px;
+}
+
+li {
+    list-style: none;
+    padding: 0px 10px;
+    font-family: Impact;
+    font-size: 20px;
+}
+
+ul{
+  background-color: rgb(212, 200, 222);
+  width: 100%;
+  margin: 0px;
+  display: flex;
+  justify-content: center;
+  box-sizing: border-box;
+
+}
